@@ -1,0 +1,18 @@
+Composer
+
+Ferramenta de gestão de dependências
+Isola dependencias externas evitando necessidade de versionamento das mesmas (vendor)
+
+Namespace
+
+Richard Stalman – Criador do sofware livre
+
+Packgist – repositório de bibliotecas
+
+www.hub.docker.com – gerenciador de container
+
+docker-compose exec php7 bash –> para entrar no container
+
+slide.com/vitormatos/composer
+
+ 
