@@ -13,4 +13,6 @@ RUN chmod +x /usr/bin/composer
 
 WORKDIR /app
 
-COPY entrypoint.sh /usr/entrypoint.sh
+COPY entrypoint.sh /usr/bin/entrypoint.sh
+
+ENTRYPOINT [ "sh","/usr/bin/entrypoint.sh" ]
