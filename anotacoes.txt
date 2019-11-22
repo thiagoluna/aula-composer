@@ -15,4 +15,13 @@ docker-compose exec php7 bash –> para entrar no container
 
 slide.com/vitormatos/composer ss
 
+docker-compose build
+docker-compose up
+
+//rodar comando dentro do container
+docker-compose exec php7 composer install
+docker-compose exec php7 vendor/bin/phpunit --colors tests
+//rodar comando usando ayalho configurado no composer.json
+docker-compose exec php7 comopser phpunit
+
  
