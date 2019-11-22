@@ -13,6 +13,6 @@ www.hub.docker.com – gerenciador de container
 
 docker-compose exec php7 bash –> para entrar no container
 
-slide.com/vitormatos/composer
+slide.com/vitormatos/composer ss
 
  
