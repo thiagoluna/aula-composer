@@ -2,7 +2,7 @@
     "name": "thiagoluna/aula-composer",
     "description": "Aula de composer",
     "keywords": ["composer", "php", "docker"],
-    "license": "GPL-3;0-or-later",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Thiago Luna"
