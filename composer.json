@@ -8,6 +8,8 @@
             "name": "Thiago Luna"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "vlucas/phpdotenv": "^3.6"
     },
@@ -25,5 +27,5 @@
         "psr-4":{
             "AulaComposer\\": "src"
         }
-    }
+    }  
 }
